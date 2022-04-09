@@ -9,7 +9,7 @@ body {
     color: #f4eeeb;
 }
 
-#profilePicture, #profilePicture img {
+.profilePicture, .profilePicture img {
     position: relative;
     width: 150px;
     height: 150px;
@@ -19,7 +19,7 @@ body {
     -webkit-tap-highlight-color: transparent;
 }
 
-#userName {
+.userName {
     color: #b9472d;
     font-size: 2.4em;
     font-weight: bold;
@@ -34,7 +34,7 @@ body {
     text-decoration: none;
 }
 
-#extratext {
+.extratext {
     width: 100%;
     font-family: 'montserrat';
     color: #8c8796;
@@ -43,7 +43,7 @@ body {
     text-decoration: none;
 }
 
-#links {
+.links {
     max-width: 675px;
     width: auto;
     display: block;
